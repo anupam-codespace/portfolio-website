@@ -8,7 +8,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 /** Production base URL for canonical links, Open Graph, and absolute asset URLs. */
-const siteUrl = "https://linktr.ee/helloanupam";
+const siteUrl = "https://anupam-portfolio-seven.vercel.app";
 
 /** SEO and social sharing: title, description, Open Graph, Twitter cards, icons, robots. */
 export const metadata: Metadata = {

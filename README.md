@@ -10,6 +10,8 @@
 
 A high-performance, modern developer portfolio built with **Next.js 14**, **React 18**, and **TypeScript**. Designed and tailored for **Anupam Saha** — Software Engineer specializing in **Mobile Application Development**, **App UI Design**, and **Full-Stack Engineering**.
 
+🚀 **Live Deployment:** [https://anupam-portfolio-seven.vercel.app](https://anupam-portfolio-seven.vercel.app)
+
 🌐 **Connect & Profiles:** [Linktree](https://linktr.ee/helloanupam) • [GitHub](https://github.com/anupam-codespace) • [LinkedIn](https://www.linkedin.com/in/anupam-saha-3a997321b/) • [X (Twitter)](https://x.com/AnupamSaha070) • [Credly](https://credly.com/users/anupam-saha.work) • [Email](mailto:anupamtospace002@gmail.com)
 
 ---
