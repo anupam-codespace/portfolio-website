@@ -136,9 +136,4 @@ npm run start
 - **Credly:** [credly.com/users/anupam-saha.work](https://credly.com/users/anupam-saha.work)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-Copyright © 2026 **Anupam Saha**.
+\
